@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2koma_Panorama",
+"productVersion": "0.1",
+"dataUrl": "2koma_Panorama.data.unityweb",
+"wasmCodeUrl": "2koma_Panorama.wasm.code.unityweb",
+"wasmFrameworkUrl": "2koma_Panorama.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
